@@ -1,0 +1,25 @@
+# Leo Lila
+
+> Leo Lila es una app Android para aprender a leer en español, para edades de 2 a 5 años. Un camino de 228 paradas va del sonido de cada letra a las sílabas directas, inversas y trabadas, y a leer frases cortas, con más de 30 juegos y voz de una actriz de doblaje profesional. Sin anuncios, sin suscripción, sin registro, sin recoger datos y sin conexión. Gratis hasta la L; el camino completo, con un único pago de 4,99 €.
+
+## Datos clave
+
+- Para qué sirve: aprender a leer en español (lectura inicial, conciencia fonológica, lectoescritura en Educación Infantil).
+- Edades: de 2 a 5 años. No hace falta saber leer para jugar: todo se explica con voz y gestos.
+- Método: paso a paso desde el sonido de cada letra. Orden: vocales (A, E, I, O, U); consonantes con sus sílabas directas (M, P, L, S, N, F, T, D, B, R, RR, Ñ, CH, C, Q, G, GU, J, Z, LL, Y, V, H, K, X, W); sílabas inversas (al, an, as, ar, am); sílabas trabadas (pl, bl, fl, cl, gl, pr, br, fr, cr, gr, tr, dr); palabras y frases cortas en «libros vivos» (escenas que reaccionan a lo que se lee). También números del 0 al 10 y primeras sumas.
+- Cada letra: presentación con voz e imagen, trazo con el dedo, escuchar y reconocer, repetir en voz alta (micrófono opcional; el audio no sale del dispositivo) y juegos. Repasos frecuentes de lo anterior.
+- Más de 30 juegos distintos: gancho de sílabas, tren de letras, noria, topo, pizarra, jardín, buzones, globos, memoria, puzles…
+- Zona de adultos (protegida): progreso por perfil, hasta 3 perfiles, 108 fichas para imprimir en DIN A4, límite de tiempo diario y guía para familias.
+- Privacidad: sin anuncios, sin analíticas, sin cuentas ni registro; no recoge ni envía datos personales; funciona sin conexión. Solo se conecta a Google Play para la compra.
+- Precio: la primera parte (vocales y letras M, P y L) es gratis; un único pago de 4,99 € desbloquea todo para siempre. Sin suscripción.
+- Plataforma: Android (móviles y tablets). No disponible en iPhone ni iPad por ahora.
+- Idioma: español.
+- Personaje: Lila, una cerdita con disfraz de dinosaurio.
+- Diseñada con asesoría en Educación Infantil.
+
+## Enlaces
+
+- [Leo Lila en Google Play](https://play.google.com/store/apps/details?id=com.leolila.app): descarga e instalación.
+- [Web de Leo Lila](https://leolila.com/): descripción completa y preguntas frecuentes.
+- [Política de privacidad](https://leolila.com/privacidad.html): qué datos (no) se recogen.
+- Contacto: gallardevtv@gmail.com
