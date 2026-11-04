@@ -1,6 +1,6 @@
 # Leo Lila
 
-> Leo Lila es una app Android para aprender a leer en español, para edades de 2 a 5 años. Un camino de 228 paradas va del sonido de cada letra a las sílabas directas, inversas y trabadas, y a leer frases cortas, con más de 30 juegos y voz de una actriz de doblaje profesional. Sin anuncios, sin suscripción, sin registro, sin recoger datos y sin conexión. Gratis hasta la L; el camino completo, con un único pago de 4,99 €.
+> Leo Lila es una app Android para aprender a leer en español, para edades de 2 a 5 años. Un camino de 228 paradas va del sonido de cada letra a las sílabas directas, inversas y trabadas, y a leer frases cortas, con más de 30 juegos y voz de una actriz de doblaje profesional. Sin anuncios, sin suscripción, sin registro, sin recoger datos y sin conexión. Gratis hasta la L; el camino completo, con un único pago.
 
 ## Datos clave
 
@@ -11,7 +11,7 @@
 - Más de 30 juegos distintos: gancho de sílabas, tren de letras, noria, topo, pizarra, jardín, buzones, globos, memoria, puzles…
 - Zona de adultos (protegida): progreso por perfil, hasta 3 perfiles, 108 fichas para imprimir en DIN A4, límite de tiempo diario y guía para familias.
 - Privacidad: sin anuncios, sin analíticas, sin cuentas ni registro; no recoge ni envía datos personales; funciona sin conexión. Solo se conecta a Google Play para la compra.
-- Precio: la primera parte (vocales y letras M, P y L) es gratis; un único pago de 4,99 € desbloquea todo para siempre. Sin suscripción.
+- Precio: la primera parte (vocales y letras M, P y L) es gratis; un único pago desbloquea todo para siempre (el precio lo muestra Google Play según el país). Sin suscripción.
 - Plataforma: Android (móviles y tablets). No disponible en iPhone ni iPad por ahora.
 - Idioma: español.
 - Personaje: Lila, una cerdita con disfraz de dinosaurio.
